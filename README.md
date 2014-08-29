@@ -9,8 +9,8 @@ other hand, I would like to stay current on the HN memes and new tech
 goodness going down, but I only need the top stuff.
 
 My new diet consists of the top 10 HN articles of the past week, delivered once
-a week, every Sunday morning, through this app and [r2e], a tool that checks
-for updated RSS feeds and emails them out. Oh, and [leechblock], to keep me
+a week, every Sunday morning, through this app and [r2e][2], a tool that checks
+for updated RSS feeds and emails them out. Oh, and [leechblock][3], to keep me
 honest. :)
 
   [1]: http://hnweekly.herokuapp.com/
