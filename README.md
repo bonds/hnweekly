@@ -1,5 +1,5 @@
 This web app shows an Atom feed of the top rated Hacker News articles
-from the past week. Enjoy it, in all its RSS glory by clicking [here][1].
+from the past week. Enjoy it, in all its RSS glory, by clicking [here][1].
 
 ## Why
 
