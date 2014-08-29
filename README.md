@@ -17,7 +17,7 @@ honest.
 ## Code
 
 For those interested, the only file that does something interesting (unless you
-find a vanilla Rails interesting) is [main_controller.rb][4]. I wrote it in
+find a vanilla Rails app interesting) is [main_controller.rb][4]. I wrote it in
 Ruby on Rails (and host it on Heroku) because I'm lazy.
 
   [1]: http://hnweekly.herokuapp.com/
