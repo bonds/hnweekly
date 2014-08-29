@@ -1,5 +1,5 @@
-This web app shows an Atom (RSS) feed of the top rated Hacker News articles
-from the past week. It is hosted on Heroku [here][1].
+This web app shows an Atom feed of the top rated Hacker News articles
+from the past week. Enjoy it, in all its RSS glory by clicking [here][1].
 
 ## Why
 
@@ -16,9 +16,9 @@ honest.
 
 ## Code
 
-For those interested, the only file that does something interesting (unless you
-find a vanilla Rails app interesting) is [main_controller.rb][4]. I wrote it in
-Ruby on Rails (and host it on Heroku) because I'm lazy.
+This app is written in Ruby on Rails (and hosted on Heroku) because I'm lazy.
+The only file that does something interesting (unless you find a vanilla Rails
+app interesting) is [main_controller.rb][4].
 
   [1]: http://hnweekly.herokuapp.com/
   [2]: http://www.allthingsrss.com/rss2email/
